@@ -1,0 +1,23 @@
+{
+  "name": "liz-models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiquewdev/liz-models.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiquewdev/liz-models/issues"
+  },
+  "homepage": "https://github.com/kaiquewdev/liz-models#readme",
+  "dependencies": {
+    "keras-js": "^0.3.0",
+    "ndarray": "^1.0.18"
+  }
+}
