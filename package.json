@@ -1,6 +1,6 @@
 {
   "name": "liz-models",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "Models from liz",
   "bin": "./travel-price.js",
   "main": "travel-price.js",
