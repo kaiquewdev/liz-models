@@ -1,8 +1,8 @@
 {
   "name": "liz-models",
-  "version": "1.0.3",
-  "description": "",
-  "bin": "travel-price.js",
+  "version": "1.0.5",
+  "description": "Models from liz",
+  "bin": "./travel-price.js",
   "main": "travel-price.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
