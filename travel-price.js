@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const Model = require('keras-js').Model;
 const model = new Model({
   filepaths: {
