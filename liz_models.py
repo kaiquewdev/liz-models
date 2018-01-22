@@ -2,6 +2,8 @@
 Liz models methods
 '''
 
+import numpy as np
+
 def distance_generation():
 	return np.array([np.random.randint(1,1000) for _ in range(10**5)])
 
